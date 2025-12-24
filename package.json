@@ -1,0 +1,19 @@
+{
+  "name": "vitrin-base-theme",
+  "version": "1.0.0",
+  "description": "vitrin-base-theme theme created with Vitrin CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/vitrin-base-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username/vitrin-base-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/vitrin-base-theme#readme"
+}

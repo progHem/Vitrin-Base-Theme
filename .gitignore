@@ -1,0 +1,16 @@
+node_modules/
+.npm
+*.zip
+dist/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+npm-debug.log*
+.env
+.env.local
+.env.production
+.vitrin/dist/
