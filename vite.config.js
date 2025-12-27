@@ -18,7 +18,7 @@ export default defineConfig({
       formats: ["es"],
       fileName: (format, entryName) => `${entryName}.js`,
     },
-    outDir: "assets",
+    outDir: "theme/assets",
     rollupOptions: {
       output: {
         manualChunks: undefined,

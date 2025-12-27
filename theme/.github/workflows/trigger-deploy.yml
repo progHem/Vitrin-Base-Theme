@@ -3,6 +3,8 @@ name: Trigger Deploy
 on:
   push:
     branches: [develop]
+    paths:
+      - 'theme/**'
 
 jobs:
   trigger:

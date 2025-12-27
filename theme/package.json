@@ -8,7 +8,7 @@
     "build": "vite build",
     "watch": "vite build --watch",
     "dev": "vite build --watch",
-    "publish": "vite build && vitrin build ./theme --output ./output --name vitrin-base-theme"
+    "publish": "vite build && vitrin build --output ./output --name vitrin-base-theme"
   },
   "repository": {
     "type": "git",
